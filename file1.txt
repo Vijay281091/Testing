@@ -1,2 +1,5 @@
 Welcome to the world
 Welcome to the Devops
+Welcome to the class
+Welcome to the Discussion
+
